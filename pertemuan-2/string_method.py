@@ -21,6 +21,14 @@ print(f"Strip        : '{data_kotor.strip()}'")
 print(f"Lstip       : '{data_kotor.lstrip()}'")
 print(f"Rstip       : '{data_kotor.rstrip()}'")
 
+nama = "zAENAL"
+
+if nama.lower() == 'alip' : 
+    print("halo alip selamat datang!")
+elif nama.lower() == 'zaenal': 
+    print("halo zaenal selamat datang!")
+elif nama.lower() == 'erik':
+    print("halo erik selamat datang!")
 
 
 
