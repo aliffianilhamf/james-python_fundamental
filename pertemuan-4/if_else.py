@@ -1,3 +1,11 @@
+
+# if (kondisi):
+#     ekspresi
+# else : 
+#     ekspresi
+
+
+
 nilai = 90 
 
 # jiika nilainya lebih dari 95, maka siswa itu lulus, tapi kalau kurang, tidak lulus 
